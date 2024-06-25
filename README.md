@@ -1,6 +1,6 @@
 # Clustering
 
-**Overview: **
+#Overview: 
 
 This project demonstrates the use of clustering techniques on a dataset to group similar data points. 
 Clustering is a type of unsupervised learning that is commonly used for exploratory data analysis 
@@ -9,8 +9,10 @@ image recognition.
 
 **Objectives: **
 
-• To apply different clustering algorithms on a dataset. 
+• To apply different clustering algorithms on a dataset.
+
 • To visualize the clusters and understand the underlying data structure. 
+
 • To evaluate the performance and effectiveness of the clustering methods used.
 
 **Results: **
