@@ -1,9 +1,0 @@
-To run this project, you will need to install the following dependencies:
-
-- Python 3.8 or higher
-- Jupyter Notebook
-- numpy
-- pandas
-- matplotlib
-- seaborn
-- scikit-learn
